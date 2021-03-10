@@ -279,6 +279,7 @@
    background-color: #f6f9f3;
    position: relative;
    padding-bottom: 30px;
+   overflow: hidden;
  }
 
  .list__inner::before, .list__inner::after {
