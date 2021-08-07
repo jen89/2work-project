@@ -829,9 +829,9 @@
    .history__btn {
       padding: 22px 5px;
    }
-   .history__form::after {
+   /* .history__form::after {
       display: none;
-   }
+   } */
    .top__images {
       min-height: 375px;
    }
